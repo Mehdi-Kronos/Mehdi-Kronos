@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./Background-ezgif.com-video-to-gif-converter.gif" width="50%" alt="My Banner">
 </div>
-# 💫 About Me:
+💫 About Me:
 👨‍💻 Software Developer<br>🌐 Web Development<br>🎮 Game Development
 
 
